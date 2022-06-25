@@ -1,6 +1,6 @@
 {
   "name": "@shoopi/whatsapp-cloud-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial package wrapper for WhatsApp Cloud Api",
   "main": "dist/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "prettier": "^2.7.1"
   },
   "peerDependencies": {
-    "@shoopi/whatsapp-cloud-api-cache": "^0.0.1",
+    "@shoopi/whatsapp-cloud-api-cache": "^0.0.2",
     "@shoopi/whatsapp-cloud-api-responder": "^0.0.1"
   },
   "devDependencies": {

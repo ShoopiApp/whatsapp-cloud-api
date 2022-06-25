@@ -72,6 +72,7 @@ import rules from "./rules.json";
 
 function main() {
   const discordbot = DiscordPlugin.getInstance();
+  discordbot.init();
   new WhatsappCloudApi({
     templates: templates,
     rules: rules,
