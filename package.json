@@ -1,6 +1,6 @@
 {
   "name": "@shoopi/whatsapp-cloud-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial package wrapper for WhatsApp Cloud Api",
   "main": "dist/index.js",
   "scripts": {
