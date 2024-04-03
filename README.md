@@ -284,4 +284,4 @@ Contributions are always welcome!
 
 ## Feedback
 
-If you have any feedback, please reach out to us at info@shoopi.app
+If you have any feedback, please reach out to us at work@elvingomez.dev
